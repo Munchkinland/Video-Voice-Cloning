@@ -53,14 +53,23 @@ markdown
 
 .
 ├── README.md
+
 ├── requirements.txt
+
 ├── transcribe_translate.py
+
 ├── utils
+
 │   ├── audio_processing.py
+
 │   ├── voice_cloning.py
+
 │   ├── whisper_integration.py
+
 └── outputs
+
     ├── transcriptions
+    
     └── audios
 
 Contribución
